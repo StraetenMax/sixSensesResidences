@@ -1,0 +1,67 @@
+mjml
+    //- Head
+    mj-head
+        mj-title News Ecosup Hôtellerie
+        mj-font(name="Permanent Marker" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap")
+        mj-raw.
+            <meta charset="UTF-8">
+            <meta name='color-scheme' content='light'/>
+            <meta name='supported-color-schemes' content='light'/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            //- font-size / line-height
+            mj-class(name='T24' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='24px' line-height='28px')/
+            mj-class(name='T18' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='18px' line-height='22px')/
+            mj-class(name='T17' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='17px' line-height='21px')/
+            mj-class(name='T16' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='16px' line-height='20px')/
+            mj-class(name='T14' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='14px' line-height='18px')/
+            mj-class(name='T12' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='12px' line-height='16px')/
+            mj-class(name='T10' font-family='Arial, Helvetica, sans-serif' font-style="normal" font-size='10px' line-height='14px')/
+            //- font-weight
+            mj-class(name="fw0" font-weight="400")/
+            mj-class(name="fw1" font-weight="900")/
+            mj-class(name="fw2" font-weight="700")/
+            //- composant
+            mj-button(padding="0" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" color="#ffffff" background-color="#B59F6B" border-radius="4px" text-transform="uppercase")
+            //- color
+            mj-class(name="cTW" color="#ffffff")/
+            mj-class(name="bgW" background-color="#ffffff")/
+            mj-class(name="cTGW" color="#f9f8f8")/
+            mj-class(name="bgGW" background-color="#f9f8f8")/
+            mj-class(name="cTGM" color="#464646")
+            mj-class(name="cTB" color="#000000")/
+            mj-class(name="bgB" background-color="#000000")/
+            mj-class(name="cTO" color="#B59F6B")/
+            mj-class(name="bgO" background-color="#B59F6B")/
+            mj-class(name="cTM" color="#35302D")/
+            mj-class(name="bgM" background-color="#35302D")/
+        mj-breakpoint(width="480px")
+    //- Body
+    mj-body(background-color='#f5f4f1' width="640px")
+        //- content
+        block content
+        //- bloc header
+            block header
+            include ../includes/projet2/_header
+        //- bloc menu l'Experientiel
+            block experientiel
+            include ../includes/projet2/_experientiel
+        //- bloc Menu Ardoise
+            block ardoise
+            include ../includes/projet2/_ardoise
+        //- bloc menu Sur le pouce
+            block pouce
+            include ../includes/projet2/_pouce
+        //- bloc Le produit de la semaine
+            block produit
+            include ../includes/projet2/_produit
+        //- bloc Notre étudiant de la semaine
+            block etudiant
+            include ../includes/projet2/_etudiant
+        //- bloc footer
+            block footer
+            include ../includes/projet2/_footer
