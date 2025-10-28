@@ -40,6 +40,34 @@
     </mj-section>
     <mj-section>
       <mj-column>
+        <mj-text>Own a Beachfront Property in Dubai</mj-text>
+        <mj-divider></mj-divider>
+        <mj-text>Six Senses Residences - Dubai Marina</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>122</mj-text>
+        <mj-text>Storey Tower</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>10%</mj-text>
+        <mj-text>Rental</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>20-80</mj-text>
+        <mj-text>Payment Plan</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button>register your interest >></mj-button>
+        <mj-button>world's most desirable locations</mj-button>
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
         <mj-image src="images/dubai.jpg" alt=""/>
         <mj-text>Enjoy a lifestyle like no other</mj-text>
         <mj-text>Introducing Six Senses Residences Dubai Marina, a 122-storey tower that is the ultimate residential destination in one of the world's most desirable locations.</mj-text>
