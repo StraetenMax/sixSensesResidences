@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>Six Senses </mj-title>
+    <mj-title>Six Senses Campaign</mj-title>
     <mj-font name="Philosopher" href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap"/>
     <mj-raw>
       <meta charset="UTF-8">
@@ -13,36 +13,46 @@
       <meta name="format-detection" content="email=no"/>
     </mj-raw>
     <mj-attributes>
-      <mj-all font-family="Arial, Helvetica, sans-serif"/>
-      <mj-class name="T24" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px"/>
-      <mj-class name="T18" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px"/>
-      <mj-class name="T17" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="21px"/>
-      <mj-class name="T16" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px"/>
-      <mj-class name="T14" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px"/>
-      <mj-class name="T12" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="16px"/>
-      <mj-class name="T10" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="14px"/>
+      <mj-all font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif"/>
+      <mj-class name="T50" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="50px" line-height="58px"/>
+      <mj-class name="T16" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="24px"/>
+      <mj-class name="T18" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px"/>
+      <mj-class name="T17" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="21px"/>
+      <mj-class name="T14" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px"/>
+      <mj-class name="T12" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="16px"/>
+      <mj-class name="T10" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="14px"/>
       <mj-class name="fw0" font-weight="400"/>
       <mj-class name="fw1" font-weight="900"/>
       <mj-class name="fw2" font-weight="700"/>
       <mj-button padding="0" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" color="#ffffff" background-color="#B59F6B" border-radius="4px" text-transform="uppercase"></mj-button>
       <mj-class name="cTW" color="#ffffff"/>
       <mj-class name="bgW" background-color="#ffffff"/>
-      <mj-class name="cTGW" color="#f9f8f8"/>
-      <mj-class name="bgGW" background-color="#f9f8f8"/>
-      <mj-class name="cTGM" color="#464646"></mj-class>
       <mj-class name="cTB" color="#000000"/>
       <mj-class name="bgB" background-color="#000000"/>
-      <mj-class name="cTO" color="#B59F6B"/>
-      <mj-class name="bgO" background-color="#B59F6B"/>
-      <mj-class name="cTM" color="#35302D"/>
-      <mj-class name="bgM" background-color="#35302D"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
-  <mj-body background-color="#f5f4f1" width="640px">
+  <mj-body background-color="#f5f4f1" width="600px">
     <mj-section padding="20px" padding-bottom="10px">
       <mj-column>
         <mj-text padding="0" align="center" mj-class="T14" color="#888888">Si vous ne parvenez pas à lire cet email, <a style="color:#888888" href="#">cliquez ici</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Amenities & Services</mj-text>
+        <mj-text>Library, study area and meeting rooms</mj-text>
+        <mj-text>Games room, indoor and outdoor cinemas</mj-text>
+        <mj-text>Gymnasiums, fitness studios, yoga deck, pilates studio</mj-text>
+        <mj-text>Saunas, ice baths and therapy chambers</mj-text>
+        <mj-text>25m pool, jacuzzis, infinity pool and experiential showers</mj-text>
+        <mj-text>Lounges, sun decks and gardens</mj-text>
+        <mj-text>Dining areas and refreshment bars</mj-text>
+        <mj-text>24/7 concierge, à la carte services and exclusive owners' community</mj-text>
+        <mj-text>Overlooking Palm Jumeirah, Dubai Harbour Beachfront, Emirates Golf Course, Dubai Marina, Blue Waters, and Ain Dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
+        <mj-divider></mj-divider>
+        <mj-image src="images/logoSelectGroup.png"/>
+        <mj-button>enquire now</mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
