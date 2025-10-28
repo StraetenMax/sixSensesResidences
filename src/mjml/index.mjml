@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>Six Senses Campaign</mj-title>
+    <mj-title>Six Senses Residences</mj-title>
     <mj-font name="Philosopher" href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap"/>
     <mj-raw>
       <meta charset="UTF-8">
@@ -32,7 +32,7 @@
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
-  <mj-body background-color="#f5f4f1" width="600px">
+  <mj-body background-color="#ffffff" width="600px">
     <mj-section padding="20px" padding-bottom="10px">
       <mj-column>
         <mj-text padding="0" align="center" mj-class="T14" color="#888888">Si vous ne parvenez pas à lire cet email, <a style="color:#888888" href="#">cliquez ici</a></mj-text>
@@ -67,31 +67,32 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-image src="images/dubai.jpg" alt=""/>
+      <mj-column width="100%">
+        <mj-image padding="0" width="600px" src="images/dubai.jpg" alt=""/>
         <mj-text>Enjoy a lifestyle like no other</mj-text>
         <mj-text>Introducing Six Senses Residences Dubai Marina, a 122-storey tower that is the ultimate residential destination in one of the world's most desirable locations.</mj-text>
         <mj-text>Overlooking Palm Jumeirah, Dubai Harbour Beachfront, Emirates Golf Course, Dubai Marina, Blue Waters, and Ain Dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
         <mj-button>enquire now</mj-button>
-        <mj-image src="images/grandImmo.jpg" alt=""/>
-        <mj-image src="images/petitImmo1.jpg" alt=""/>
-        <mj-image src="images/petitImmo2.jpg" alt=""/>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-image padding="0" width="600px" src="images/grandImmo.jpg" alt=""/>
+        <mj-image padding="0" width="600px" src="images/petitImmo1.jpg" alt=""/>
+        <mj-image padding="0" width="600px" src="images/petitImmo2.jpg" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>Amenities & Services</mj-text>
-        <mj-text>Library, study area and meeting rooms</mj-text>
-        <mj-text>Games room, indoor and outdoor cinemas</mj-text>
-        <mj-text>Gymnasiums, fitness studios, yoga deck, pilates studio</mj-text>
-        <mj-text>Saunas, ice baths and therapy chambers</mj-text>
-        <mj-text>25m pool, jacuzzis, infinity pool and experiential showers</mj-text>
-        <mj-text>Lounges, sun decks and gardens</mj-text>
-        <mj-text>Dining areas and refreshment bars</mj-text>
-        <mj-text>24/7 concierge, à la carte services and exclusive owners' community</mj-text>
-        <mj-text>Overlooking Palm Jumeirah, Dubai Harbour Beachfront, Emirates Golf Course, Dubai Marina, Blue Waters, and Ain Dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
-        <mj-divider></mj-divider>
-        <mj-image src="images/logoSelectGroup.png"/>
+        <mj-text padding="0" align="center">Amenities & Services</mj-text>
+        <mj-text padding="0" mj-class="T16">Library, study area and meeting rooms</mj-text>
+        <mj-text padding="0" mj-class="T16">Games room, indoor and outdoor cinemas</mj-text>
+        <mj-text padding="0" mj-class="T16">Gymnasiums, fitness studios, yoga deck, pilates studio</mj-text>
+        <mj-text padding="0" mj-class="T16">Saunas, ice baths and therapy chambers</mj-text>
+        <mj-text padding="0" mj-class="T16">25m pool, jacuzzis, infinity pool and experiential showers</mj-text>
+        <mj-text padding="0" mj-class="T16">Lounges, sun decks and gardens</mj-text>
+        <mj-text padding="0" mj-class="T16">Dining areas and refreshment bars</mj-text>
+        <mj-text padding="0" mj-class="T16">24/7 concierge, à la carte services and exclusive owners' community</mj-text>
+        <mj-text padding="0" mj-class="T16">Overlooking Palm Jumeirah, Dubai Harbour Beachfront, Emirates Golf Course, Dubai Marina, Blue Waters, and Ain Dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
+        <mj-image padding="0" width="600px" src="images/logoSelectGroup.png"/>
         <mj-button>enquire now</mj-button>
       </mj-column>
     </mj-section>
