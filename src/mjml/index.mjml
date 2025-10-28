@@ -14,9 +14,9 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif"/>
+      <mj-class name="T60" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="60px" line-height="68px"/>
       <mj-class name="T50" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="50px" line-height="58px"/>
       <mj-class name="T16" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="24px"/>
-      <mj-class name="T18" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px"/>
       <mj-class name="T17" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="21px"/>
       <mj-class name="T14" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px"/>
       <mj-class name="T12" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="16px"/>
@@ -66,14 +66,20 @@
         <mj-divider></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0">
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/dubai.jpg" alt=""/>
-        <mj-text>Enjoy a lifestyle like no other</mj-text>
-        <mj-text>Introducing Six Senses Residences Dubai Marina, a 122-storey tower that is the ultimate residential destination in one of the world's most desirable locations.</mj-text>
-        <mj-text>Overlooking Palm Jumeirah, Dubai Harbour Beachfront, Emirates Golf Course, Dubai Marina, Blue Waters, and Ain Dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 30px">
+      <mj-column width="100%" background-color="#212121" padding="0 41px">
+        <mj-text padding="0" align="center" mj-class="T60" color="#ffffff">Enjoy A lifestyle Like No Other</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16" color="#ffffff">Introducing Six Senses Residences Dubai Marina, a 122-storey tower that is the ultimate residential destination in one of the world's most desirable locations.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16" color="#ffffff">Overlooking Palm Jumeirah, Dubai Harbour Beachfront, Emirates Golf Course, Dubai Marina, Blue Waters, and Ain Dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
         <mj-button>enquire now</mj-button>
       </mj-column>
+    </mj-section>
+    <mj-section padding="0">
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/grandImmo.jpg" alt=""/>
         <mj-image padding="0" width="600px" src="images/petitImmo1.jpg" alt=""/>
