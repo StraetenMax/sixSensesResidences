@@ -16,10 +16,10 @@
       <mj-all font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif"/>
       <mj-class name="T60" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="60px" line-height="68px"/>
       <mj-class name="T50" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="50px" line-height="58px"/>
+      <mj-class name="T18" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="24px"/>
       <mj-class name="T16" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="24px"/>
-      <mj-class name="T17" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="21px"/>
+      <mj-class name="T12" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="18px"/>
       <mj-class name="T14" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px"/>
-      <mj-class name="T12" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="16px"/>
       <mj-class name="T10" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="14px"/>
       <mj-class name="fw0" font-weight="400"/>
       <mj-class name="fw1" font-weight="900"/>
@@ -107,14 +107,16 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-text>Reach People Direct, Dubai, UAE.</mj-text>
-        <mj-text>rpd 2</mj-text>
-        <mj-text>shk zyd road</mj-text>
-        <mj-text>Dubai 116373</mj-text>
-        <mj-text>United Arab Emirates</mj-text>
-        <mj-text>You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
-        <mj-text>Click here to modify your preferences or unsubscribe</mj-text>
+      <mj-column width="100%" background-color="#eaeaea">
+        <mj-text padding="0" align="center" mj-class="T18">Reach People Direct, Dubai, UAE.</mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text padding="0" align="center" mj-class="T16" text-transform="uppercase">rpd 2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16" text-transform="uppercase">shk zyd road</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16">Dubai 116373</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16">United Arab Emirates</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12">You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12">Click here to modify your preferences or unsubscribe</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
