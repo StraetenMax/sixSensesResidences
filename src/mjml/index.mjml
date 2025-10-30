@@ -17,6 +17,8 @@
       <mj-class name="T60" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="60px" line-height="68px"/>
       <mj-class name="T50" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="50px" line-height="58px"/>
       <mj-class name="T36" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px"/>
+      <mj-class name="T28" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="28px" line-height="28px"/>
+      <mj-class name="T22" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="22px" line-height="22px"/>
       <mj-class name="T18" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="24px"/>
       <mj-class name="T16" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="24px"/>
       <mj-class name="T15" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="15px"/>
@@ -38,32 +40,33 @@
         <mj-text padding="0" align="center" mj-class="T14" color="#888888">Si vous ne parvenez pas à lire cet email, <a style="color:#888888" href="#">cliquez ici</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#212121" padding="0 35px">
       <mj-column>
-        <mj-text>Own a Beachfront Property in Dubai</mj-text>
-        <mj-divider></mj-divider>
-        <mj-text>Six Senses Residences - Dubai Marina</mj-text>
+        <mj-divider padding="0" border-color="#eeeeee" border-style="solid" border-width="1px" width="100%"></mj-divider>
+        <mj-text padding="0" align="center" mj-class="T28 cTW">Own a Beachfront Property in Dubai</mj-text>
+        <mj-divider padding="0" border-color="#eeeeee" border-style="solid" border-width="1px" width="100%"></mj-divider>
+        <mj-text padding="0" align="center" mj-class="T22 cTW">Six Senses Residences - Dubai Marina</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column padding="3,5px" background-color="#5A5656">
-        <mj-text padding="0" align="center" mj-class="T36">122</mj-text>
-        <mj-text padding="0" align="center" mj-class="T15">Storey Tower</mj-text>
+    <mj-section background-color="#212121" padding="0 35px">
+      <mj-column padding="4px">
+        <mj-text padding="0" align="center" mj-class="T36" color="#EEF1F5" container-background-color="#5A5656">122</mj-text>
+        <mj-text padding="0" align="center" mj-class="T15" color="#EEF1F5" container-background-color="#5A5656">Storey Tower</mj-text>
       </mj-column>
-      <mj-column padding="3,5px" background-color="#5A5656">
-        <mj-text padding="0" align="center" mj-class="T36">10%</mj-text>
-        <mj-text padding="0" align="center" mj-class="T15">Rental</mj-text>
+      <mj-column padding="4px">
+        <mj-text padding="0" align="center" mj-class="T36" color="#EEF1F5" container-background-color="#5A5656">10%</mj-text>
+        <mj-text padding="0" align="center" mj-class="T15" color="#EEF1F5" container-background-color="#5A5656">Rental</mj-text>
       </mj-column>
-      <mj-column padding="3,5px" background-color="#5A5656">
-        <mj-text padding="0" align="center" mj-class="T36">20-80</mj-text>
-        <mj-text padding="0" align="center" mj-class="T15">Payment Plan</mj-text>
+      <mj-column padding="4px">
+        <mj-text padding="0" align="center" mj-class="T36" color="#EEF1F5" container-background-color="#5A5656">20-80</mj-text>
+        <mj-text padding="0" align="center" mj-class="T15" color="#EEF1F5" container-background-color="#5A5656">Payment Plan</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#212121" padding="0 35px">
       <mj-column>
         <mj-button>register your interest >></mj-button>
         <mj-button>world's most desirable locations</mj-button>
-        <mj-divider></mj-divider>
+        <mj-divider padding="0" border-color="#eeeeee" border-style="solid" border-width="1px" width="100%"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
