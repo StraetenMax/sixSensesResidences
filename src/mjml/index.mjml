@@ -94,14 +94,14 @@
     <mj-section padding="0 30px">
       <mj-column padding="0 30px" background-color="#eaeaea">
         <mj-text padding="0" align="center" mj-class="T50">Amenities & Services</mj-text>
-        <mj-text padding="0" mj-class="T16">Library, study area and meeting rooms</mj-text>
-        <mj-text padding="0" mj-class="T16">Games room, indoor and outdoor cinemas</mj-text>
-        <mj-text padding="0" mj-class="T16">Gymnasiums, fitness studios, yoga deck, pilates studio</mj-text>
-        <mj-text padding="0" mj-class="T16">Saunas, ice baths and therapy chambers</mj-text>
-        <mj-text padding="0" mj-class="T16">25m pool, jacuzzis, infinity pool and experiential showers</mj-text>
-        <mj-text padding="0" mj-class="T16">Lounges, sun decks and gardens</mj-text>
-        <mj-text padding="0" mj-class="T16">Dining areas and refreshment bars</mj-text>
-        <mj-text padding="0" mj-class="T16">24/7 concierge, à la carte services and exclusive owners' community</mj-text>
+        <mj-text padding="0" mj-class="T16"><span style="font-size:20px">&#9679;</span>&nbsp;Library, study area and meeting rooms</mj-text>
+        <mj-text padding="0" mj-class="T16"><span style="font-size:20px">&#9679;</span>&nbsp;Games room, indoor and outdoor cinemas</mj-text>
+        <mj-text padding="0" mj-class="T16"><span style="font-size:20px">&#9679;</span>&nbsp;Gymnasiums, fitness studios, yoga deck, pilates studio</mj-text>
+        <mj-text padding="0" mj-class="T16"><span style="font-size:20px">&#9679;</span>&nbsp;Saunas, ice baths and therapy chambers</mj-text>
+        <mj-text padding="0" mj-class="T16"><span style="font-size:20px">&#9679;</span>&nbsp;25m pool, jacuzzis, infinity pool and experiential showers</mj-text>
+        <mj-text padding="0" mj-class="T16"><span style="font-size:20px">&#9679;</span>&nbsp;Lounges, sun decks and gardens</mj-text>
+        <mj-text padding="0" mj-class="T16"><span style="font-size:20px">&#9679;</span>&nbsp;Dining areas and refreshment bars</mj-text>
+        <mj-text padding="0" mj-class="T16"><span style="font-size:20px">&#9679;</span>&nbsp;24/7 concierge, à la carte services and exclusive owners' community</mj-text>
         <mj-text padding="0" mj-class="T16">Overlooking Palm Jumeirah, Dubai Harbour Beachfront, Emirates Golf Course, Dubai Marina, Blue Waters, and Ain Dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
       </mj-column>
     </mj-section>
