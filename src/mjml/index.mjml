@@ -26,13 +26,14 @@
       <mj-class name="T15" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="15px"/>
       <mj-class name="T14" font-family="&quot;Philosopher&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="14px"/>
       <mj-class name="T12" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="18px"/>
+      <mj-divider padding="0" border-style="solid" border-width="1px" border-color="#eeeeee"></mj-divider>
       <mj-class name="fw0" font-weight="400"/>
       <mj-class name="fw1" font-weight="700"/>
       <mj-class name="fw2" font-weight="900"/>
       <mj-class name="cTW" color="#ffffff"/>
       <mj-class name="bgW" background-color="#ffffff"/>
       <mj-class name="cTGB" color="#212121"/>
-      <mj-class name="bgTGB" background-color="#212121"/>
+      <mj-class name="bgGB" background-color="#212121"/>
       <mj-class name="cTB" color="#000000"/>
       <mj-class name="bgB" background-color="#000000"/>
     </mj-attributes>
@@ -44,15 +45,15 @@
         <mj-text padding="12px 0" align="center" mj-class="T14 fw0 cTW">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#212121" padding="0 35px">
+    <mj-section mj-class="bgGB" padding="0 35px">
       <mj-column>
-        <mj-divider padding="0" padding-top="18.24px" border-color="#eeeeee" border-style="solid" border-width="1px" width="100%"></mj-divider>
-        <mj-text padding="0" padding-top="12px" padding-bottom="15px" align="center" mj-class="T28 cTW">Own a Beachfront Property in Dubai</mj-text>
-        <mj-divider padding="0" border-color="#eeeeee" border-style="solid" border-width="1px" width="100%"></mj-divider>
-        <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" mj-class="T22 cTW">Six Senses Residences - Dubai Marina</mj-text>
+        <mj-divider padding-top="18.24px" width="100%"></mj-divider>
+        <mj-text padding="0" padding-top="12px" padding-bottom="15px" align="center" mj-class="T28 fw1 cTW">Own a Beachfront Property in Dubai</mj-text>
+        <mj-divider width="100%"></mj-divider>
+        <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" mj-class="T22 fw0 cTW">Six Senses Residences - Dubai Marina</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#212121" padding="0 35px">
+    <mj-section mj-class="bgGB" padding="0 35px">
       <mj-column padding="4px">
         <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw1" color="#EEF1F5" container-background-color="#5A5656">122</mj-text>
         <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0" color="#EEF1F5" container-background-color="#5A5656">Storey Tower</mj-text>
@@ -66,11 +67,11 @@
         <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0" color="#EEF1F5" container-background-color="#5A5656">Payment Plan</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#212121" padding="0 35px 23px 35px">
+    <mj-section mj-class="bgGB" padding="0 35px 23px 35px">
       <mj-column>
         <mj-button padding="0" padding-top="32px" inner-padding="12px 45px" mj-class="T20 fw1 bgW cTGB" text-transform="uppercase" letter-spacing="2px" border-radius="0" target="_blank" href="#">register your interest >></mj-button>
         <mj-button padding="23px 0 30px 0" inner-padding="12px 15px" mj-class="T14 fw1 bgW cTGB" text-transform="uppercase" letter-spacing="2px" border-radius="0" target="_blank" href="#">world's most desirable locations</mj-button>
-        <mj-divider padding="0" border-color="#eeeeee" border-style="solid" border-width="1px" width="100%"></mj-divider>
+        <mj-divider width="100%"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -79,12 +80,12 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0 30px">
-      <mj-column width="100%" background-color="#212121" padding="0 41px">
+      <mj-column width="100%" mj-class="bgGB" padding="0 41px">
         <mj-text padding="35px 0" align="center" mj-class="T60 cTW fw0">Enjoy A lifestyle Like No Other</mj-text>
-        <mj-divider padding="0" width="80px" border-style="solid" border-width="1px" border-color="#ffffff"></mj-divider>
+        <mj-divider width="80px"></mj-divider>
         <mj-text padding="0" padding-top="35px" padding-bottom="15px" align="center" mj-class="T16 cTW fw0">Introducing Six Senses Residences Dubai Marina, a 122-storey tower that is the ultimate residential destination in one of the world's most desirable locations.</mj-text>
         <mj-text padding="0" padding-bottom="15px" align="center" mj-class="T16 cTW fw0">Overlooking Palm Jumeirah, Dubai Harbour Beachfront, Emirates Golf Course, Dubai Marina, Blue Waters, and Ain Dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
-        <mj-button padding="0" padding-top="32px" padding-bottom="41px" width="100%" inner-padding="12px 15px" background-color="#ffffff" color="#212121" mj-class="T26 fw1" text-transform="uppercase" letter-spacing="2px" border-radius="0" target="_blank" href="#">enquire now</mj-button>
+        <mj-button padding="0" padding-top="32px" padding-bottom="41px" width="100%" inner-padding="12px 15px" mj-class="T26 fw1 bgW cTGB" text-transform="uppercase" letter-spacing="2px" border-radius="0" target="_blank" href="#">enquire now</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -111,12 +112,12 @@
     <mj-section padding="0px">
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/logoSelectGroup.png"/>
-        <mj-button padding="0 30px" width="100%" inner-padding="12px 15px" background-color="#212121" color="#ffffff" mj-class="T26 fw1" text-transform="uppercase" letter-spacing="2px" border-radius="0" target="_blank" href="#">enquire now</mj-button>
+        <mj-button padding="0 30px" width="100%" inner-padding="12px 15px" mj-class="T26 fw1 cTW bgGB" text-transform="uppercase" letter-spacing="2px" border-radius="0" target="_blank" href="#">enquire now</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding-top="45px">
       <mj-column padding-top="35px" padding-bottom="5px" width="100%" background-color="#eaeaea">
-        <mj-text padding="0" align="center" mj-class="T18 cTGB">Reach People Direct, Dubai, UAE.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T18 fw0 cTGB">Reach People Direct, Dubai, UAE.</mj-text>
       </mj-column>
       <mj-column padding="10px 0" width="100%">
         <mj-text padding="0" align="center" mj-class="T16 fw0 cTGB" text-transform="uppercase">rpd 2</mj-text>
