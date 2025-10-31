@@ -114,17 +114,19 @@
         <mj-button padding="0 30px" width="100%" inner-padding="12px 15px" background-color="#212121" color="#ffffff" mj-class="T26 fw1" text-transform="uppercase" letter-spacing="2px" border-radius="0" target="_blank" href="#">enquire now</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column width="100%" background-color="#eaeaea">
-        <mj-text padding="0" align="center" mj-class="T18">Reach People Direct, Dubai, UAE.</mj-text>
+    <mj-section padding-top="45px">
+      <mj-column padding-top="35px" padding-bottom="5px" width="100%" background-color="#eaeaea">
+        <mj-text padding="0" align="center" mj-class="T18 cTGB">Reach People Direct, Dubai, UAE.</mj-text>
+      </mj-column>
+      <mj-column padding="10px 0" width="100%">
+        <mj-text padding="0" align="center" mj-class="T16 fw0 cTGB" text-transform="uppercase">rpd 2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16 fw0 cTGB" text-transform="uppercase">shk zyd road</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16 fw0 cTGB">Dubai 116373</mj-text>
+        <mj-text padding="0" align="center" mj-class="T16 fw0 cTGB">United Arab Emirates</mj-text>
       </mj-column>
       <mj-column width="100%">
-        <mj-text padding="0" align="center" mj-class="T16" text-transform="uppercase">rpd 2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T16" text-transform="uppercase">shk zyd road</mj-text>
-        <mj-text padding="0" align="center" mj-class="T16">Dubai 116373</mj-text>
-        <mj-text padding="0" align="center" mj-class="T16">United Arab Emirates</mj-text>
-        <mj-text padding="0" align="center" mj-class="T12">You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
-        <mj-text padding="0" align="center" mj-class="T12">Click here to modify your preferences or unsubscribe</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12 fw0" color="#666666">You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12 fw0" color="#666666">Click here to modify your preferences or unsubscribe</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
