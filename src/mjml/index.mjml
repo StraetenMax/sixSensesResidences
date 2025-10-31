@@ -39,9 +39,9 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#ffffff" width="600px">
-    <mj-section padding="20px" padding-bottom="10px" background-color="#212121">
+    <mj-section padding="0 20px" mj-class="bgB">
       <mj-column>
-        <mj-text padding="0" align="center" mj-class="T14 fw0" line-height="18px" color="#ffffff">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
+        <mj-text padding="12px 0" align="center" mj-class="T14 fw0 cTW">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#212121" padding="0 35px">
