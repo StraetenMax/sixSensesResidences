@@ -79,7 +79,7 @@
         <mj-image padding="0" width="600px" src="images/dubai.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 30px">
+    <mj-section padding="0 5%">
       <mj-column width="100%" mj-class="bgGB" padding="0 41px">
         <mj-text padding="35px 0" align="center" mj-class="T60 cTW fw0">Enjoy A lifestyle Like No Other</mj-text>
         <mj-divider width="80px"></mj-divider>
@@ -95,7 +95,7 @@
         <mj-image padding="0" width="600px" src="images/petitImmo2.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 30px">
+    <mj-section padding="0 5%">
       <mj-column padding="35px 30px" background-color="#eaeaea">
         <mj-text padding="0" padding-bottom="20px" align="center" mj-class="T50 fw1">Amenities & Services</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw1 cTB"><span style="font-size:20px">&#9679;</span>&nbsp;&nbsp;Library, study area and meeting rooms</mj-text>
@@ -112,7 +112,7 @@
     <mj-section padding="0px">
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/logoSelectGroup.png"/>
-        <mj-button padding="0 30px" width="100%" inner-padding="12px 15px" mj-class="T26 fw1 cTW bgGB" text-transform="uppercase" letter-spacing="2px" border-radius="0" target="_blank" href="#">enquire now</mj-button>
+        <mj-button padding="0 5%" width="100%" inner-padding="12px 15px" mj-class="T26 fw1 cTW bgGB" text-transform="uppercase" letter-spacing="2px" border-radius="0" target="_blank" href="#">enquire now</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding-top="45px">
